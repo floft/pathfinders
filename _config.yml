@@ -1,0 +1,13 @@
+name: "Cascade Eagles"
+description: "Cascade Eagles Pathfinder Club"
+
+url: "http://pathfinders.floft.net"
+
+include: ['_pages']
+
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        layout: "default"
